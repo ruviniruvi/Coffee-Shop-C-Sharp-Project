@@ -2,8 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/63685062/155576741-27ffaf64-3d8c-44d7-bd8a-5212d909cf42.png" width="1000" height="200" />
 
-
-
 ## Project Description :
 
 In this project, I designed and developed software components in DLL form that provides 
@@ -13,8 +11,8 @@ Developed the program using Microsoft Visual Studio C# development tool.
 The software components have documented and 
 tested using Microsoft Visual Studio C# Web GUI .
 
-This project is based on database which called “coffeee shop database” . I implemented a 
-web application to display all the employee details from the coffee shop database as a first part 
+This project is based on database which called “coffeee shop database” .
+I implemented a web application to display all the employee details from the coffee shop database as a first part 
 of the project. I have used Visual Studio C# as a language to implement DLL file and the web 
 application to test the DLL file.
 
